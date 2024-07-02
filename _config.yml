@@ -59,6 +59,10 @@ include: null
 exclude: null
 ignore: null
 theme: butterfly
+fireworks:
+  enable: true
+  zIndex: 9999 # -1 or 9999
+  mobile: false
 deploy:
   type: git
   repo: https://github.com/xiaochaoXie/interview_note.git
