@@ -1,6 +1,6 @@
-title: xcq的学习录
+title: xcq的妙妙屋
 subtitle: ''
-description: ''
+description: '迷茫的小邓'
 keywords: null
 author: xiexiaochao
 language: zh-CN
@@ -59,10 +59,7 @@ include: null
 exclude: null
 ignore: null
 theme: butterfly
-fireworks:
-  enable: true
-  zIndex: 9999 # -1 or 9999
-  mobile: false
+baidu_analytics: 867e359581a51cb468a476fe69af2606
 deploy:
   type: git
   repo: https://github.com/xiaochaoXie/interview_note.git
