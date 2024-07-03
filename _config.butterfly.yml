@@ -67,7 +67,7 @@ mask:
 # # 网站运行时间
 runtimeshow:
   enable: true
-  publish_date: 2/7/2024 15:00:00
+  publish_date: 7/2/2024 15:00:00
 
 inject:  
   head:
