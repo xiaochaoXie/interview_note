@@ -1,7 +1,8 @@
 ---
 title: test
 date: 2024-07-02 14:36:38
-tags:
+tags: test
+categories: test
 ---
 #测试文章
 看起来比较正常
