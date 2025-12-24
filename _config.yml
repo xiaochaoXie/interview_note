@@ -7,6 +7,23 @@ language: zh-CN
 timezone: ''
 url: https://xiaochaoXie.github.io/interview_note
 root: /interview_note/
+# 图片懒加载（默认开启，建议保留）
+lazyload:
+  enable: true
+  onlypost: false  # false 表示全站图片懒加载，true 仅博文内图片
+
+# 图片点击放大（fancybox，默认开启）
+fancybox: true
+
+# 图片水印（可选）
+watermark:
+  enable: false  # 开启需设置下方参数
+  text: "你的水印文字"
+  font: "微软雅黑"
+  size: 20
+  color: "#999"
+  opacity: 0.5
+  position: "bottom right"
 permalink_defaults: null
 pretty_urls:
   trailing_index: true
