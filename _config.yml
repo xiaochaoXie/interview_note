@@ -62,5 +62,5 @@ theme: butterfly
 baidu_analytics: 867e359581a51cb468a476fe69af2606
 deploy:
   type: git
-  repo: https://github.com/xiaochaoXie/interview_note.git
+  repo: git@github.com:xiaochaoXie/interview_note.git
   branch: gh-pages
